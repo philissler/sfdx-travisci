@@ -1,9 +1,11 @@
 {
-    "orgName": "wade.wegner Example",
+    "orgName": "phil.issler Company"
     "edition": "Developer",
+    "features": [],
     "settings": {
     "lightningExperienceSettings": {
         "enableS1DesktopEnabled": true
 
     }
+}
 }
